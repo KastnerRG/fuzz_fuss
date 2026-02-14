@@ -1,3 +1,12 @@
+asap/scripts/focused-fuzzing/.run_id.lock
+asap/scripts/focused-fuzzing/Fuzzer-build/
+asap/scripts/focused-fuzzing/Fuzzer-fuss-build/
+asap/scripts/focused-fuzzing/logs/
+asap/scripts/focused-fuzzing/run_id
+asap/scripts/focused-fuzzing/sqlite3-src/
+asap/scripts/focused-fuzzing/target-asan-example-build/
+
+
 #==============================================================================#
 # This file specifies intentionally untracked files that git should ignore.
 # See: http://www.kernel.org/pub/software/scm/git/docs/gitignore.html
