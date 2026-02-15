@@ -1,3 +1,4 @@
+asap/scripts/focused-fuzzing/target-asan-example-build/fuzzer
 **/*.o
 **/*.a
 **/*.log
